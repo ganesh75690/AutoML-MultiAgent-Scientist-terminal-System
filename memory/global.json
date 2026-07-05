@@ -1,0 +1,50 @@
+{
+  "history": [],
+  "successful_models": [
+    {
+      "dataset_signature": "b1a6e9c676d8502c",
+      "winner": "Logistic Regression",
+      "metric": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "roc_auc": 1.0
+      }
+    },
+    {
+      "dataset_signature": "b1a6e9c676d8502c",
+      "winner": "Logistic Regression",
+      "metric": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "roc_auc": 1.0
+      }
+    }
+  ],
+  "failures": [],
+  "dataset_history": [
+    {
+      "dataset": "C:\\Users\\ganesh\\Desktop\\ai agent\\AutoML-Multi-Agent\\data\\sample_dataset.csv",
+      "task_type": "classification",
+      "quality_score": 100
+    },
+    {
+      "dataset": "C:\\Users\\ganesh\\Desktop\\ai agent\\AutoML-Multi-Agent\\data\\sample_dataset.csv",
+      "task_type": "classification",
+      "quality_score": 100
+    }
+  ],
+  "best_hyperparameters": [
+    {
+      "model__C": 1.0,
+      "model__solver": "lbfgs"
+    },
+    {
+      "model__C": 1.0,
+      "model__solver": "lbfgs"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "experiment_id": "exp_20260705T061009Z_b1a6e9c6",
+  "dataset_signature": "b1a6e9c676d8502c",
+  "dataset_path": "C:\\Users\\ganesh\\Desktop\\ai agent\\AutoML-Multi-Agent\\data\\sample_dataset.csv",
+  "target_column": "target",
+  "task_type": "classification",
+  "winner": "Logistic Regression",
+  "primary_metric": 1.0,
+  "execution_seconds": 21.2,
+  "timestamp": "2026-07-05T06:10:32.209671+00:00",
+  "model_comparison": [
+    {
+      "name": "Logistic Regression",
+      "mean_score": 1.0,
+      "std_score": 0.0,
+      "fit_status": "ok"
+    },
+    {
+      "name": "SVM",
+      "mean_score": 1.0,
+      "std_score": 0.0,
+      "fit_status": "ok"
+    },
+    {
+      "name": "Random Forest",
+      "mean_score": 0.96,
+      "std_score": 0.08,
+      "fit_status": "ok"
+    },
+    {
+      "name": "Decision Tree",
+      "mean_score": 0.96,
+      "std_score": 0.08,
+      "fit_status": "ok"
+    }
+  ],
+  "parameters": {
+    "model__C": 1.0,
+    "model__solver": "lbfgs"
+  }
+}

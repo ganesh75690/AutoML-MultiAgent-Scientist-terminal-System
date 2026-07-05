@@ -1,0 +1,12 @@
+{
+  "random_seed": 42,
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "n_jobs": -1,
+  "max_tuning_iterations": 12,
+  "allow_polynomial_features": true,
+  "max_polynomial_numeric_features": 4,
+  "outlier_clip_iqr": 1.5,
+  "missing_column_threshold": 0.95,
+  "resume": true
+}

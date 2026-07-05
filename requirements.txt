@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+xgboost>=2.1
+lightgbm>=4.5
+catboost>=1.2
+shap>=0.46
+matplotlib>=3.9
+rich>=13.8
+typer>=0.12
+joblib>=1.4

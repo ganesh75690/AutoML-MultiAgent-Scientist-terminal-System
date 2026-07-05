@@ -1,0 +1,18 @@
+[
+  {
+    "experiment_id": "exp_20260705T060840Z_b1a6e9c6",
+    "dataset_signature": "b1a6e9c676d8502c",
+    "winner": "Logistic Regression",
+    "metric": 1.0,
+    "execution_seconds": 20.61,
+    "timestamp": "2026-07-05T06:09:02.779287+00:00"
+  },
+  {
+    "experiment_id": "exp_20260705T061009Z_b1a6e9c6",
+    "dataset_signature": "b1a6e9c676d8502c",
+    "winner": "Logistic Regression",
+    "metric": 1.0,
+    "execution_seconds": 21.2,
+    "timestamp": "2026-07-05T06:10:32.209671+00:00"
+  }
+]

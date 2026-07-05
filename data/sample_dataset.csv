@@ -1,0 +1,31 @@
+age,income,years_experience,education_level,department,city,training_hours,target
+25,48000,2,Bachelor,Sales,Austin,40,1
+31,61000,5,Master,Engineering,Dallas,32,0
+28,54000,4,Bachelor,Support,Seattle,30,1
+45,88000,18,PhD,Engineering,Denver,20,0
+38,72000,11,Master,Marketing,Chicago,24,0
+29,50000,3,Bachelor,Support,Boston,35,1
+42,95000,16,PhD,Engineering,Austin,18,0
+36,68000,9,Master,Sales,Seattle,28,0
+27,52000,3,Bachelor,Support,Dallas,38,1
+50,102000,22,PhD,Executive,New York,12,0
+41,79000,13,Master,Engineering,Denver,22,0
+33,63000,6,Bachelor,Marketing,Boston,27,1
+26,49000,2,Bachelor,Support,Austin,39,1
+39,74000,10,Master,Sales,Chicago,25,0
+48,98000,20,PhD,Executive,New York,15,0
+30,57000,4,Bachelor,Support,Dallas,34,1
+35,66000,8,Master,Marketing,Seattle,26,0
+44,86000,15,PhD,Engineering,Boston,19,0
+32,61000,5,Bachelor,Sales,Chicago,31,1
+37,71000,9,Master,Support,Austin,29,0
+46,91000,17,PhD,Engineering,Dallas,21,0
+29,52000,3,Bachelor,Support,Seattle,37,1
+40,76000,12,Master,Marketing,Denver,23,0
+53,110000,25,PhD,Executive,New York,10,0
+34,64000,7,Bachelor,Sales,Boston,33,1
+28,53000,3,Bachelor,Support,Austin,36,1
+43,84000,14,Master,Engineering,Chicago,20,0
+31,59000,5,Bachelor,Marketing,Seattle,29,1
+47,94000,19,PhD,Executive,Denver,14,0
+52,108000,23,PhD,Engineering,Dallas,13,0
